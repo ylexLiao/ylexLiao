@@ -1,6 +1,8 @@
-### Hi there, I'm YLex 👋
+# Hi there, I'm YLex 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=ylexLiao)
+![Profile views](https://komarev.com/ghpvc/?username=ylexLiao&style=for-the-badge)
+
+### A little more about me...
 
 - 🔭 I’m currently working on [secure-file-management-system](https://github.com/ylexLiao/secure-file-management-system)
 - 🌱 I’m currently a student
@@ -19,9 +21,9 @@
 
 ![YLex's GitHub stats](https://github-readme-stats.vercel.app/api?username=ylexLiao&show_icons=true&theme=radical)
 
-### 🔗 Connect with me
+<!-- ### 🔗 Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/%E8%97%9D%E5%82%91-%E5%BB%96-a80212201/)
+- [LinkedIn](https://www.linkedin.com/in/%E8%97%9D%E5%82%91-%E5%BB%96-a80212201/) -->
 <!-- - [Twitter](your Twitter profile link) -->
 
 ### 🛠️ Languages and Tools
