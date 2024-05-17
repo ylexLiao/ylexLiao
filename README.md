@@ -1,6 +1,6 @@
 ### Hi there, I'm YLex 👋
 
-![Profile views](https://gpvc.arturio.dev/ylexLiao)
+![Profile views](https://komarev.com/ghpvc/?username=ylexLiao)
 
 - 🔭 I’m currently working on [secure-file-management-system](https://github.com/ylexLiao/secure-file-management-system)
 - 🌱 I’m currently a student
