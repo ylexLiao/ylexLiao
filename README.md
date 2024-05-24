@@ -27,11 +27,18 @@
 - [My GitHub Pages](https://ylexLiao.github.io): Personal website.
 
 ---
+</div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/ylexLiao/ylexLiao/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/ylexLiao/ylexLiao/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/ylexLiao/ylexLiao/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
 
 ### 📈 GitHub Stats
-
+<div align="center">
 ![YLex's GitHub stats](https://github-readme-stats.vercel.app/api?username=ylexLiao&show_icons=true&theme=radical)
-
+</div>
 ---
 
 ### 🛠️ Languages and Tools
