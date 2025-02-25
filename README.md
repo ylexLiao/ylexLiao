@@ -13,8 +13,8 @@
 
 - 🔭 I’m currently working on [secure-file-management-system](https://github.com/ylexLiao/secure-file-management-system) and [Global Game Jam: The Bubble's Age](https://github.com/ylexLiao/GGJ_TBA): Make a game demo in 48 hours' The Bubble's Age'.
 - 🌱 I’m currently a student
-- 👯 I’m looking to collaborate on open source projects
-- 📫 How to reach me: [ylexyj@gmail.com](mailto:ylexyj@gmail.com)
+- 👯 I’m looking to collaborate on open-source projects
+- 📫 How to reach me: [24063078g@connect.polyu.hk](mailto:24063078g@connect.polyu.hk)
 - ⚡ Fun fact: I love coding and solving challenging problems
 
 ---
@@ -24,9 +24,9 @@
 - [Secure File Management System](https://github.com/ylexLiao/secure-file-management-system): A web application designed to provide secure file encryption, decryption, and key management functionalities.
 - [FYP: Food Recognition System]([https://github.com/ylexLiao/FYP-Food-Recognition-System](https://ylexliao.github.io/FYP-Food-Recognition-System/)): HKBU UG student Liao Yijie's Final Year Project - Food Recognition System.
 - [Ballet Pose Recognition](https://github.com/ylexLiao/Ballet_pose_recognition): An intern project on Microsoft AI & IoT Insider Labs.
-- [Too Young Too Simple: Game Recommendation System](https://github.com/ylexLiao/COMP4135-Too-Young-Too-Simple-Game-Recommendation):This system aims to offer personalized game recommendations to users based on their preferences.
+- [Too Young Too Simple: Game Recommendation System](https://github.com/ylexLiao/COMP4135-Too-Young-Too-Simple-Game-Recommendation): This system aims to offer personalized game recommendations to users based on their preferences.
 - [Global Game Jam: The Bubble's Age](https://github.com/ylexLiao/GGJ_TBA): Make a game demo in 48 hours' The Bubble's Age'.
-- [Metavers VR FPS Game:BATTLE FOR BATTLE FORTHE ABYSS](https://github.com/ylexLiao/COMP5424-Group-India):Defeat all enemies and reach the objective point in as short a time as possible using weapons and various items.
+- [Metavers VR FPS Game: BATTLE FOR BATTLE FORTHE ABYSS](https://github.com/ylexLiao/COMP5424-Group-India) :Defeat all enemies and reach the objective point in as short a time as possible using weapons and various items.
 - [My GitHub Pages](https://ylexLiao.github.io): Personal website.
 
 ---
