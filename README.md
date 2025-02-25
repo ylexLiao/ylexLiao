@@ -35,8 +35,7 @@
 
 
 ### 📈 GitHub Stats
-
-![YLex's GitHub stats](https://github-readme-stats.vercel.app/api?username=ylexLiao&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ylexLiao&theme=radical)
 ---
 
 ### 🛠️ Languages and Tools
