@@ -36,7 +36,8 @@
 
 ### 📈 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ylexLiao&theme=radical)
+![YLex's GitHub stats](https://github-readme-stats.vercel.app/api?username=ylexLiao&show_icons=true&theme=radical&hide_rank=true)
+
 
 ---
 
