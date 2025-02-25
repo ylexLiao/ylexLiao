@@ -21,7 +21,7 @@
 
 ### 🛠️ My Projects
 
-- [FYP: Food Recognition System]([https://github.com/ylexLiao/FYP-Food-Recognition-System](https://ylexliao.github.io/FYP-Food-Recognition-System/)): HKBU UG student Liao Yijie's Final Year Project - Food Recognition System.
+- [FYP: Food Recognition System](https://ylexliao.github.io/FYP-Food-Recognition-System/)): HKBU UG student Liao Yijie's Final Year Project - Food Recognition System.
 - [Ballet Pose Recognition](https://github.com/ylexLiao/Ballet_pose_recognition): An intern project on Microsoft AI & IoT Insider Labs.
 - [Too Young Too Simple: Game Recommendation System](https://github.com/ylexLiao/COMP4135-Too-Young-Too-Simple-Game-Recommendation): This system aims to offer personalized game recommendations to users based on their preferences.
 - [Global Game Jam: The Bubble's Age](https://github.com/ylexLiao/GGJ_TBA): Make a game demo in 48 hours' The Bubble's Age'.
