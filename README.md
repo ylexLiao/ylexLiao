@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on [secure-file-management-system](https://github.com/ylexLiao/secure-file-management-system) and [Global Game Jam: The Bubble's Age](https://github.com/ylexLiao/GGJ_TBA): Make a game demo in 48 hours' The Bubble's Age'.
 - 🌱 I’m currently a student
 - 👯 I’m looking to collaborate on open-source projects
-- 📫 How to reach me: [24063078g@connect.polyu.hk](mailto:24063078g@connect.polyu.hk)
+- 📫 How to reach me: [ylexyj.liao@connect.polyu.hk](mailto:ylexyj.liao@connect.polyu.hk)
 - ⚡ Fun fact: I love coding and solving challenging problems
 
 ---
